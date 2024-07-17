@@ -49,7 +49,3 @@ Mail id - adityapal0807@gmail.com
      streamlit run app.py
      ```
 
-## Additional Notes
-
-- Provide any additional information or dependencies required for running the project.
-- Include steps for environment setup, configuration, or any prerequisites.
