@@ -41,7 +41,7 @@ Mail id - adityapal0807@gmail.com
      
    - Add your Groq API key in the .env file:
    ```bash
-     GROQ_API
+     GROQ_API = ''
      ```
 
 
