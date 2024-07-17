@@ -36,12 +36,23 @@ Mail id - adityapal0807@gmail.com
      docker-compose up
      ```
 
+3. **Set Up API Keys**
+    - Rename .env_sample to .env.
+     
+   - Add your Groq API key in the .env file:
+   ```bash
+     GROQ_API
+     ```
+
+
 2. **Scrape Data (if needed):**
    - Run `scrapper.py` to scrape new links.
      ```bash
      python scrapper.py
      ```
    - Ensure the new collection name matches the name specified in `app.py`.
+
+
 
 3. **Run Streamlit App:**
    - Launch the Streamlit web application.
