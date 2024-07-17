@@ -24,6 +24,10 @@ Mail id - adityapal0807@gmail.com
 
 - `scrapper.py`: Python script for scraping data.
 
+- `requirements.txt`: File listing Python dependencies required for the project. Include this file to install necessary libraries:
+  ```bash
+  pip install -r requirements.txt
+
 ## How to Run
 
 1. **Initiate Milvus Database:**
